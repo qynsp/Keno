@@ -1,0 +1,683 @@
+{
+  "users": {
+    "usr_admin": {
+      "id": "usr_admin",
+      "telegramId": "100001",
+      "username": "admin",
+      "firstName": "Casino",
+      "lastName": "Manager",
+      "balance": 50000,
+      "role": "ADMIN",
+      "referralCode": "ADMIN777",
+      "totalBets": 0,
+      "totalWins": 0,
+      "totalPayout": 0,
+      "joinedAt": 1783943118135
+    },
+    "usr_demo": {
+      "id": "usr_demo",
+      "telegramId": "888888",
+      "username": "lucky_keno_player",
+      "firstName": "Lucky",
+      "lastName": "Player",
+      "photoUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=120&q=80",
+      "balance": 0,
+      "role": "USER",
+      "referralCode": "LUCKY2026",
+      "totalBets": 16,
+      "totalWins": 6,
+      "totalPayout": 450,
+      "joinedAt": 1785930318135
+    }
+  },
+  "rounds": {
+    "round_1001_1786535118142": {
+      "id": "round_1001_1786535118142",
+      "roundNumber": 1001,
+      "status": "WAITING",
+      "startTime": 1786535118142,
+      "endTime": 1786535178142,
+      "drawnNumbers": [],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0
+    },
+    "round_1002_1786535128778": {
+      "id": "round_1002_1786535128778",
+      "roundNumber": 1002,
+      "status": "RESULT",
+      "startTime": 1786535128778,
+      "endTime": 1786535188778,
+      "drawnNumbers": [
+        10,
+        47,
+        52,
+        55,
+        28,
+        56,
+        26,
+        16,
+        46,
+        62,
+        45,
+        12,
+        80,
+        61,
+        31,
+        77,
+        25,
+        44,
+        67,
+        37
+      ],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0,
+      "provableSeed": "38549c177d005ef03be045a46d07dbb8",
+      "drawTimestamp": 1786535188829
+    },
+    "round_1003_1786535223854": {
+      "id": "round_1003_1786535223854",
+      "roundNumber": 1003,
+      "status": "DRAWING",
+      "startTime": 1786535223854,
+      "endTime": 1786535283854,
+      "drawnNumbers": [
+        18,
+        14,
+        53,
+        63,
+        65,
+        55,
+        66,
+        46,
+        60,
+        25,
+        48,
+        7,
+        35,
+        33,
+        21,
+        61,
+        52,
+        73,
+        6,
+        12
+      ],
+      "totalTickets": 1,
+      "totalBets": 20,
+      "totalPayouts": 0,
+      "provableSeed": "bd506702b8c1fe14390e64de52f951ec",
+      "drawTimestamp": 1786535283900
+    },
+    "round_1004_1786535289923": {
+      "id": "round_1004_1786535289923",
+      "roundNumber": 1004,
+      "status": "WAITING",
+      "startTime": 1786535289923,
+      "endTime": 1786535349923,
+      "drawnNumbers": [],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0
+    },
+    "round_1005_1786535293159": {
+      "id": "round_1005_1786535293159",
+      "roundNumber": 1005,
+      "status": "RESULT",
+      "startTime": 1786535293159,
+      "endTime": 1786535353159,
+      "drawnNumbers": [
+        1,
+        56,
+        39,
+        12,
+        71,
+        51,
+        42,
+        54,
+        76,
+        3,
+        44,
+        53,
+        37,
+        62,
+        63,
+        15,
+        20,
+        52,
+        67,
+        17
+      ],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0,
+      "provableSeed": "c1815030c9948a6840e31c2484b35be8",
+      "drawTimestamp": 1786535353215
+    },
+    "round_1006_1786535388242": {
+      "id": "round_1006_1786535388242",
+      "roundNumber": 1006,
+      "status": "RESULT",
+      "startTime": 1786535388242,
+      "endTime": 1786535448242,
+      "drawnNumbers": [
+        55,
+        61,
+        12,
+        62,
+        28,
+        44,
+        18,
+        19,
+        2,
+        38,
+        14,
+        20,
+        48,
+        21,
+        50,
+        49,
+        47,
+        34,
+        66,
+        63
+      ],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0,
+      "provableSeed": "4c420e3ea9ecbc84a2fbbfbf92308722",
+      "drawTimestamp": 1786535448289
+    },
+    "round_1007_1786535483313": {
+      "id": "round_1007_1786535483313",
+      "roundNumber": 1007,
+      "status": "WAITING",
+      "startTime": 1786535483313,
+      "endTime": 1786535543313,
+      "drawnNumbers": [],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0
+    },
+    "round_1008_1786535489104": {
+      "id": "round_1008_1786535489104",
+      "roundNumber": 1008,
+      "status": "RESULT",
+      "startTime": 1786535489104,
+      "endTime": 1786535549104,
+      "drawnNumbers": [
+        17,
+        29,
+        41,
+        33,
+        52,
+        44,
+        14,
+        4,
+        54,
+        10,
+        56,
+        63,
+        32,
+        58,
+        51,
+        69,
+        37,
+        78,
+        36,
+        5
+      ],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0,
+      "provableSeed": "7a9a9e9261da36b3d093de120816182b",
+      "drawTimestamp": 1786535549157
+    },
+    "round_1009_1786535584197": {
+      "id": "round_1009_1786535584197",
+      "roundNumber": 1009,
+      "status": "RESULT",
+      "startTime": 1786535584197,
+      "endTime": 1786535644197,
+      "drawnNumbers": [
+        63,
+        47,
+        16,
+        51,
+        3,
+        68,
+        50,
+        42,
+        57,
+        65,
+        64,
+        79,
+        7,
+        55,
+        59,
+        25,
+        4,
+        56,
+        18,
+        66
+      ],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0,
+      "provableSeed": "1817c29664a3b06fe4aed9fbca6fe6b9",
+      "drawTimestamp": 1786535644239
+    },
+    "round_1010_1786535679266": {
+      "id": "round_1010_1786535679266",
+      "roundNumber": 1010,
+      "status": "RESULT",
+      "startTime": 1786535679266,
+      "endTime": 1786535739266,
+      "drawnNumbers": [
+        15,
+        32,
+        51,
+        26,
+        41,
+        18,
+        2,
+        74,
+        62,
+        29,
+        16,
+        20,
+        79,
+        17,
+        49,
+        28,
+        12,
+        43,
+        1,
+        60
+      ],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0,
+      "provableSeed": "f877e886c713f23f4ab49ba72141dd4d",
+      "drawTimestamp": 1786535739329
+    },
+    "round_1011_1786535774353": {
+      "id": "round_1011_1786535774353",
+      "roundNumber": 1011,
+      "status": "RESULT",
+      "startTime": 1786535774353,
+      "endTime": 1786535834353,
+      "drawnNumbers": [
+        26,
+        11,
+        27,
+        49,
+        29,
+        20,
+        79,
+        34,
+        23,
+        18,
+        7,
+        3,
+        56,
+        47,
+        55,
+        67,
+        13,
+        72,
+        31,
+        50
+      ],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0,
+      "provableSeed": "55dfd13c8c2fbd18c20e57ad4213a47c",
+      "drawTimestamp": 1786535834400
+    },
+    "round_1012_1786535869421": {
+      "id": "round_1012_1786535869421",
+      "roundNumber": 1012,
+      "status": "RESULT",
+      "startTime": 1786535869421,
+      "endTime": 1786535929421,
+      "drawnNumbers": [
+        65,
+        4,
+        20,
+        53,
+        19,
+        57,
+        58,
+        67,
+        28,
+        26,
+        6,
+        23,
+        71,
+        73,
+        80,
+        8,
+        2,
+        62,
+        5,
+        70
+      ],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0,
+      "provableSeed": "bafad644a4cc8b7eb09e8ffe929d2763",
+      "drawTimestamp": 1786535929467
+    },
+    "round_1013_1786535964492": {
+      "id": "round_1013_1786535964492",
+      "roundNumber": 1013,
+      "status": "RESULT",
+      "startTime": 1786535964492,
+      "endTime": 1786536024492,
+      "drawnNumbers": [
+        36,
+        68,
+        48,
+        22,
+        62,
+        52,
+        18,
+        5,
+        63,
+        17,
+        59,
+        56,
+        3,
+        39,
+        25,
+        34,
+        74,
+        44,
+        72,
+        32
+      ],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0,
+      "provableSeed": "aff083d0f46d9af05a3e88d35d2f11e6",
+      "drawTimestamp": 1786536024535
+    },
+    "round_1014_1786536059561": {
+      "id": "round_1014_1786536059561",
+      "roundNumber": 1014,
+      "status": "WAITING",
+      "startTime": 1786536059561,
+      "endTime": 1786536119561,
+      "drawnNumbers": [],
+      "totalTickets": 0,
+      "totalBets": 0,
+      "totalPayouts": 0
+    }
+  },
+  "tickets": {
+    "tkt_3b16fa9b2c51": {
+      "id": "tkt_3b16fa9b2c51",
+      "userId": "usr_demo",
+      "username": "lucky_keno_player",
+      "roundId": "round_1003_1786535223854",
+      "roundNumber": 1003,
+      "stake": 20,
+      "selectedNumbers": [
+        7,
+        15,
+        23,
+        53,
+        63
+      ],
+      "matchedNumbers": [],
+      "hitCount": 0,
+      "multiplier": 0,
+      "payout": 0,
+      "status": "PENDING",
+      "createdAt": 1786535280041
+    }
+  },
+  "payoutTables": [
+    {
+      "picks": 1,
+      "hits": 1,
+      "multiplier": 3
+    },
+    {
+      "picks": 2,
+      "hits": 2,
+      "multiplier": 10
+    },
+    {
+      "picks": 2,
+      "hits": 1,
+      "multiplier": 1
+    },
+    {
+      "picks": 3,
+      "hits": 3,
+      "multiplier": 40
+    },
+    {
+      "picks": 3,
+      "hits": 2,
+      "multiplier": 2
+    },
+    {
+      "picks": 4,
+      "hits": 4,
+      "multiplier": 100
+    },
+    {
+      "picks": 4,
+      "hits": 3,
+      "multiplier": 5
+    },
+    {
+      "picks": 4,
+      "hits": 2,
+      "multiplier": 1
+    },
+    {
+      "picks": 5,
+      "hits": 5,
+      "multiplier": 300
+    },
+    {
+      "picks": 5,
+      "hits": 4,
+      "multiplier": 15
+    },
+    {
+      "picks": 5,
+      "hits": 3,
+      "multiplier": 2
+    },
+    {
+      "picks": 6,
+      "hits": 6,
+      "multiplier": 1000
+    },
+    {
+      "picks": 6,
+      "hits": 5,
+      "multiplier": 50
+    },
+    {
+      "picks": 6,
+      "hits": 4,
+      "multiplier": 5
+    },
+    {
+      "picks": 6,
+      "hits": 3,
+      "multiplier": 1
+    },
+    {
+      "picks": 7,
+      "hits": 7,
+      "multiplier": 2500
+    },
+    {
+      "picks": 7,
+      "hits": 6,
+      "multiplier": 200
+    },
+    {
+      "picks": 7,
+      "hits": 5,
+      "multiplier": 20
+    },
+    {
+      "picks": 7,
+      "hits": 4,
+      "multiplier": 2
+    },
+    {
+      "picks": 8,
+      "hits": 8,
+      "multiplier": 5000
+    },
+    {
+      "picks": 8,
+      "hits": 7,
+      "multiplier": 500
+    },
+    {
+      "picks": 8,
+      "hits": 6,
+      "multiplier": 50
+    },
+    {
+      "picks": 8,
+      "hits": 5,
+      "multiplier": 5
+    },
+    {
+      "picks": 8,
+      "hits": 4,
+      "multiplier": 1
+    },
+    {
+      "picks": 9,
+      "hits": 9,
+      "multiplier": 8000
+    },
+    {
+      "picks": 9,
+      "hits": 8,
+      "multiplier": 1000
+    },
+    {
+      "picks": 9,
+      "hits": 7,
+      "multiplier": 100
+    },
+    {
+      "picks": 9,
+      "hits": 6,
+      "multiplier": 15
+    },
+    {
+      "picks": 9,
+      "hits": 5,
+      "multiplier": 3
+    },
+    {
+      "picks": 10,
+      "hits": 10,
+      "multiplier": 10000
+    },
+    {
+      "picks": 10,
+      "hits": 9,
+      "multiplier": 2000
+    },
+    {
+      "picks": 10,
+      "hits": 8,
+      "multiplier": 250
+    },
+    {
+      "picks": 10,
+      "hits": 7,
+      "multiplier": 40
+    },
+    {
+      "picks": 10,
+      "hits": 6,
+      "multiplier": 10
+    },
+    {
+      "picks": 10,
+      "hits": 5,
+      "multiplier": 2
+    },
+    {
+      "picks": 10,
+      "hits": 0,
+      "multiplier": 2
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx_458f3e492f18",
+      "userId": "usr_demo",
+      "type": "BET",
+      "amount": -20,
+      "balanceAfter": 980,
+      "description": "Keno Bet Round #1003 (5 picks)",
+      "createdAt": 1786535280035
+    }
+  ],
+  "deposits": [],
+  "withdrawals": [],
+  "announcements": [
+    {
+      "id": "ann_1",
+      "title": "Welcome to Casino Keno!",
+      "content": "Pick your lucky numbers (1 to 10) for a chance to win up to 10,000x your stake every 60 seconds!",
+      "type": "PROMO",
+      "createdAt": 1786535118135,
+      "active": true
+    },
+    {
+      "id": "ann_2",
+      "title": "Instant Telebirr & CBE Deposits",
+      "content": "Deposit and withdraw instantly with 0% processing fee!",
+      "type": "INFO",
+      "createdAt": 1786531518135,
+      "active": true
+    }
+  ],
+  "settings": {
+    "roundDurationSeconds": 60,
+    "drawSpeedMs": 1000,
+    "resultDurationSeconds": 15,
+    "minStake": 5,
+    "maxStake": 1000,
+    "maintenanceMode": false,
+    "paused": false,
+    "houseMarginPercent": 5
+  },
+  "paymentSettings": {
+    "telebirrName": "Casino Keno Ethiopia",
+    "telebirrPhone": "0911223344",
+    "telebirrHolder": "Casino Keno Ethiopia",
+    "cbeName": "Casino Keno Entertainment",
+    "cbeAccount": "0911223355",
+    "cbePhone": "0911223355",
+    "cbeHolder": "Casino Keno Entertainment",
+    "minDeposit": 10,
+    "maxDeposit": 50000,
+    "screenshotRequired": false,
+    "minWithdrawal": 50,
+    "maxWithdrawal": 25000,
+    "vouchersEnabled": true
+  },
+  "vouchers": [],
+  "auditLogs": [],
+  "currentRoundNumber": 1015
+}

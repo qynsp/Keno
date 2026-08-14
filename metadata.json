@@ -1,0 +1,6 @@
+{
+  "name": "Casino Keno",
+  "description": "Production-ready Telegram Mini App multiplayer Keno game with live real-time rounds, 20-number draws, customizable payout tables, admin panel, and wallet system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
